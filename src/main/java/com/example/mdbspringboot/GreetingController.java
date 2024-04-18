@@ -13,4 +13,3 @@ public class GreetingController {
         return "Din pappa är en apa";
     }
 }
-$ git config --global user.name "John Doe"
